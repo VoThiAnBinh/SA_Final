@@ -1,0 +1,11 @@
+streamlit
+pandas
+seaborn
+matplotlib
+Pillow
+python-dateutil
+numpy
+wordcloud
+scikit-learn
+joblib
+underthesea
